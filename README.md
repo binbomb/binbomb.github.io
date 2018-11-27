@@ -4,6 +4,7 @@ npm run build
 
 Go to the folder where you want to store your project, and clone the new repository(ex c:/vuesjs)
 on terminal, run:
+
 git clone https://github.com/username/username.github.io
 
 cd username.github.io
