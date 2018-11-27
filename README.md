@@ -1,2 +1,4 @@
-"# binbomb.github.io" 
-"# binbomb.github.io" 
+// build vuejs
+npm run build 
+
+
